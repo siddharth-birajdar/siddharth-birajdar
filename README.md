@@ -74,11 +74,10 @@ Some experiences that shaped me include:
 I hope to continue using **data science and technology to create solutions that help businesses and communities.**
 
 ---
-
 ## 📫 Connect With Me
 
-* LinkedIn
-* GitHub
-* Email
+* [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
+* [Email](mailto:your-email@example.com)
+
 
 Always open to interesting collaborations, research ideas, and data science discussions.
