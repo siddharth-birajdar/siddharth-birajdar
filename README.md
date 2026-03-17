@@ -76,8 +76,8 @@ I hope to continue using **data science and technology to create solutions that 
 ---
 ## 📫 Connect With Me
 
-* [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
-* [Email](mailto:your-email@example.com)
+* [LinkedIn](https://www.linkedin.com/in/siddharth-birajdar)
+* [Email](mailto:siddharth.birajdar@okstate.edu)
 
 
 Always open to interesting collaborations, research ideas, and data science discussions.
